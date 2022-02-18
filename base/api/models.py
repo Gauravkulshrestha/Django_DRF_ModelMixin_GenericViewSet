@@ -1,5 +1,3 @@
-from statistics import mode
-from sys import maxsize
 from django.db import models
 
 class Doctor(models.Model):
